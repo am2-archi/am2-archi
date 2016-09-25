@@ -1,0 +1,17 @@
+---
+layout: default
+permalink: /projets/
+title: projets
+---
+
+<h1>Projects</h1>
+
+<ul class="post-list">
+  {% for projet in site.categories['projets'] %}
+    <li>
+      <h2>
+        <a class="post-link" href="{{ projet.url | prepend: site.baseurl }}">{{ projet.title | escape }}</a>
+      </h2>
+    </li>
+  {% endfor %}
+</ul>

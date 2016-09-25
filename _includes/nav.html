@@ -1,0 +1,14 @@
+{% assign sections = "projets|agence|contact" | split: "|" %}
+
+<header class="navbar navbar-light">
+    <nav>
+        <a class="navbar-brand" href="/">AM2 Architecture</a>
+        <ul class="nav navbar-nav pull-xs-right">
+        {% for section in sections %}
+            <li class="nav-item {% if page.title == section %}active{% endif %}">
+                <a class="nav-link" href="/{{ section }}"> {{ section | capitalize }}</a>
+            </li>
+        {% endfor %}
+        </ul>
+    </nav>
+</header>
