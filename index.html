@@ -12,7 +12,7 @@ title: projets
         <a class="am2-index-link" href="{{ projet.url | prepend: site.baseurl }}">
           {% for image in projet.images %}
             <div class="am2-index-img"
-            style="background-image:url('/img/projets/{{ projet.slug }}/thumbs/{{ image[0] }}')">
+            style="background-image:url('{{site.baseurl}}/img/projets/{{ projet.slug }}/thumbs/{{ image[0] }}')">
             </div>
             {% break %}
           {% endfor %}

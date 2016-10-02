@@ -1,16 +1,16 @@
 <header class="am2-navbar navbar navbar-light">
     <nav class="am2-nav">
-        <a class="am2-nav-brand navbar-brand" href="/"><b>AM2</b> Architecture</a>
+        <a class="am2-nav-brand navbar-brand" href="{{site.baseurl}}/"><b>AM2</b> Architecture</a>
         <ul class="nav navbar-nav pull-xs-right">
 
             <li class="nav-item {% if page.title == 'projets' %}active{% endif %}">
-                <a class="nav-link" href="/">Projets</a>
+                <a class="nav-link" href="{{site.baseurl}}/">Projets</a>
             </li>
             <li class="nav-item {% if page.title == 'agence' %}active{% endif %}">
-                <a class="nav-link" href="/agence">Agence</a>
+                <a class="nav-link" href="{{site.baseurl}}/agence">Agence</a>
             </li>
             <li class="nav-item {% if page.title == 'contact' %}active{% endif %}">
-                <a class="nav-link" href="/contact">Contact</a>
+                <a class="nav-link" href="{{site.baseurl}}/contact">Contact</a>
             </li>
 
         </ul>
