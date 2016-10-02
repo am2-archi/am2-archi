@@ -1,0 +1,30 @@
+.am2-index-link {
+	color: #2f4b4b;
+}
+
+.am2-index-link:hover {
+	color: #2f4b4b
+}
+
+.am2-index-title {
+	font-size: $font-size--lg;
+	font-family: "Quicksand", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight: 700;
+	padding-top: $spacing-unit--md;
+	margin-bottom: $spacing-unit--lg;
+	text-align: center;
+}
+
+.am2-index-title:hover {
+	text-decoration: none;
+}
+
+
+.am2-index-img {
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	width: 100%;
+	height: 350px;
+}
+

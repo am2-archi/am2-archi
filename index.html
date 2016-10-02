@@ -1,6 +1,25 @@
 ---
 layout: default
-title: accueil
+permalink: /
+title: projets
 ---
 
-  <h1>Accueil</h1>
+<div class="container">
+  <div class="row">
+    {% for projet in site.categories['projets'] %}
+      <div class="col-sm-6">
+
+        <a class="am2-index-link" href="{{ projet.url | prepend: site.baseurl }}">
+          {% for image in projet.images %}
+            <div class="am2-index-img"
+            style="background-image:url('/img/projets/{{ projet.slug }}/thumbs/{{ image[0] }}')">
+            </div>
+            {% break %}
+          {% endfor %}
+          <h1 class="am2-index-title">{{ projet.title | escape }}</h1>
+        </a>
+
+      </div>
+    {% endfor %}
+  </div>
+</div>

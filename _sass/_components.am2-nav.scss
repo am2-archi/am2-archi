@@ -1,0 +1,20 @@
+@media (min-width: $on-palm) {
+	.am2-navbar {
+		padding: $spacing-unit--lg 50px;
+	}
+}
+
+.am2-nav {
+	font-size: 18px;
+}
+
+.navbar-light .am2-nav-brand {
+	color: #737373;
+	font-size: 20px;
+}
+
+.am2-nav-brand b {
+	color: black;
+	font-size: 22px;
+	letter-spacing: 1px;
+}

@@ -4,6 +4,22 @@ categories: projets
 title:  "Avignon"
 date:   2016-09-25 15:51:38 +0200
 imgcount: 6
+features:
+ - ["Client", "Privé"]
+ - ["Budget", "20 000€"]
+ - ["Superficie", "150 m2"]
+ - ["Lieu", "Avignon"]
+ - ["Mission", "Complète"]
+ - ["Calendrier", "Livré en Juillet 2016"]
+ - ["Mission", "Complète"]
+ - ["Colaboration avec l'Atelier Gleyze"]
+images:
+ - ["1.jpg", "1920", "1413"]
+ - ["2.jpg", "1920", "2575"]
+ - ["3.jpg", "1733", "2600"]
+ - ["4.jpg", "1920", "1410"]
+ - ["5.jpg", "1811", "2600"]
+ - ["6.jpg", "1382", "948"]
 ---
 
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
