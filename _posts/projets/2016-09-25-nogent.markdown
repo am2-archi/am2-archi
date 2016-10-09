@@ -1,18 +1,16 @@
 ---
 layout: projet
 categories: projets
-title:  "Nogent-sur-Marne"
+title:  "Une pièce en plus"
 date:   2016-09-25 15:51:38 +0200
 imgcount: 6
 features:
  - ["Client", "Privé"]
- - ["Budget", "20 000€"]
- - ["Superficie", "150 m2"]
- - ["Lieu", "Avignon"]
+ - ["Budget", "30 000€"]
+ - ["Superficie", "55 m2"]
+ - ["Lieu", "Nogent-sur-Marne (94)"]
  - ["Mission", "Complète"]
- - ["Calendrier", "Livré en Juillet 2016"]
- - ["Mission", "Complète"]
- - ["Colaboration avec l'Atelier Gleyze"]
+ - ["Calendrier", "Livré en Juillet 2015"]
 images:
  - ["1.jpg", "1329", "886"]
  - ["2.jpg", "591", "886"]
@@ -22,4 +20,8 @@ images:
  - ["6.jpg", "1329", "886"]
 ---
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Le projet a vu le jour pour accueillir un couple et leur enfant dans ce 2 pièces de 55 m2. L’idée de départ était d’avoir une pièce en plus en transformant la cuisine en petite chambre d’enfant. Des rangements supplémentaires étaient nécessaires et des placards ont été créés des deux côtés du couloir principal pour accueillir un dressing familial.
+
+Une cuisine ouverte sur le séjour a été aménagée autour d’un ilôt central multifonctions (cuisiner et se restaurer) pour laisser le maximum d’espace à un séjour confortable et tourné vers un grand balcon, la famille voulant être au plus proche de la lumière et de la vue imprenable sur la ligne d’horizon des villes des bords de Marne.
+
+Les matériaux utilisés pour la rénovation sont la pierre et le bois avec des couleurs neutres dans la salle de bain et le WC, qui ont également été entièrement refaits. La cuisine est en blanc dans un soucis de discrétion, avec une crédence en pierre grise pour contraster avec les placards. Une touche de couleur a été amenée avec un frigo vintage orange, qui sépare symboliquement le séjour de la cuisine.

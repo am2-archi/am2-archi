@@ -2,19 +2,18 @@
 layout: default
 ---
 
-<div class="container section">
-	<div class="row">
-
-		<div class="col-sm-8">
+<div class="container">
+	<div class="row section am2-project-header">
+		<div class="col-lg-8">
 			{% for image in page.images %}
 				<img src="{{site.baseurl}}/img/projets/{{ page.slug }}/{{ image[0] }}" class="img-fluid">
 				{% break %}
 	        {% endfor %}
 		</div>
 
-		<div class="col-sm-4">
-		<h1 class="am2-project-title">{{ page.title }}</h1>
-			<hr>
+		<div class="col-lg-4">
+			<h1 class="am2-project-title">{{ page.title }}</h1>
+			<div class="am2-project-list">
 				<ul>
 					{% for feature in page.features %}
 						<li>
@@ -25,21 +24,28 @@ layout: default
 						</li>
 					{% endfor %}
 				</ul>
-			<hr>
-		</div>
-
-		<div class="col-sm-12">
-			<div  class="am2-project-text">
-				{{ page }}
 			</div>
 		</div>
 	</div>
+
+	<div class="row section">
+		<div class="col-sm-12">
+			<hr class="am2-project-hr">
+			<div  class="am2-project-text">
+				{{ page }}
+			</div>
+			<hr class="am2-project-hr">
+		</div>
+	</div>
+
+
 </div>
 
 <div class="am2-gallery text-sm-center">
 	{% for image in page.images %}
- {% if forloop.first %} {% continue %} {% endif %}
-
+ 		{% if forloop.first %}
+ 			{% continue %}
+ 		{% endif %}
 		<div class="am2-gallery-stamp">
 			<img src="{{site.baseurl}}/img/projets/{{ page.slug }}/thumbs/{{ image[0] }}" class="img-fluid">
 		</div>

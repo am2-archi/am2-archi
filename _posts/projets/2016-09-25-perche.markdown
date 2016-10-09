@@ -6,13 +6,11 @@ date:   2016-09-25 15:51:38 +0200
 imgcount: 5
 features:
  - ["Client", "Privé"]
- - ["Budget", "20 000€"]
- - ["Superficie", "150 m2"]
- - ["Lieu", "Avignon"]
+ - ["Budget", "00 000€"]
+ - ["Superficie", "00 m2"]
+ - ["Lieu", "Le Perche"]
  - ["Mission", "Complète"]
  - ["Calendrier", "Livré en Juillet 2016"]
- - ["Mission", "Complète"]
- - ["Colaboration avec l'Atelier Gleyze"]
 images:
  - ["1.jpg", "1024", "683"]
  - ["2.jpg", "1534", "1024"]
@@ -21,4 +19,4 @@ images:
  - ["5.jpg", "1534", "1024"]
 ---
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.

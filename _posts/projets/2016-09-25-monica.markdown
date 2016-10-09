@@ -1,18 +1,16 @@
 ---
 layout: projet
 categories: projets
-title:  "Vincennes"
+title:  "Recherche de lumière naturelle "
 date:   2016-09-25 15:51:38 +0200
 imgcount: 5
 features:
  - ["Client", "Privé"]
- - ["Budget", "20 000€"]
- - ["Superficie", "150 m2"]
- - ["Lieu", "Avignon"]
+ - ["Budget", "25 000€"]
+ - ["Superficie", "66 m2"]
+ - ["Lieu", "Vincennes (94)"]
  - ["Mission", "Complète"]
  - ["Calendrier", "Livré en Juillet 2016"]
- - ["Mission", "Complète"]
- - ["Colaboration avec l'Atelier Gleyze"]
 images:
  - ["1.jpg", "1920", "1280"]
  - ["2.jpg", "1920", "1280"]
@@ -21,4 +19,8 @@ images:
  - ["5.jpg", "1920", "1280"]
 ---
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Cet appartement à Vincennes étant un peu sombre, l’idée fût d'amener le plus de lumière possible au niveau de l’entrée, de la cuisine fermée et la salle à vivre et de redéfinir le cœur du logement.
+
+Après la démolition de deux cloisons, la cuisine s’ouvre désormais sur l’espace salon/salle à manger. La grande pièce devient plus conviviale, claire et accueillante. L’espace cuisine offre de nombreux rangements et agit en fil conducteur entre les différentes fonctions du logement. Visuellement l’espace est agrandie grâce au travail sur les volumes et la lumière.
+
+La salle à manger et la cuisine sont séparés par un ilôt central faisant office de bar. L’ensemble est blanc brillant et contraste avec le plan de travail et la crédence gris anthracite.

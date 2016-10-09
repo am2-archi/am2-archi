@@ -1,7 +1,7 @@
 ---
 layout: projet
 categories: projets
-title:  "Avignon"
+title:  "Bureaux divisés en appartements"
 date:   2016-09-25 15:51:38 +0200
 imgcount: 6
 features:
@@ -11,7 +11,6 @@ features:
  - ["Lieu", "Avignon"]
  - ["Mission", "Complète"]
  - ["Calendrier", "Livré en Juillet 2016"]
- - ["Mission", "Complète"]
  - ["Colaboration avec l'Atelier Gleyze"]
 images:
  - ["1.jpg", "1920", "1413"]
@@ -22,4 +21,10 @@ images:
  - ["6.jpg", "1382", "948"]
 ---
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Cet ensemble de bureaux dans le centre-ville d’Avignon ne prenant pas preneur mais convaincu du potentiel de sa propriété, le client fait appel à AM2 pour réfléchir à un projet de logements locatif. C'est la naissance de ces deux appartements. Les futurs logements se trouvent dans un bâtiment des annés 80 au RDC semi-enterré et au R+1.Tout était à refaire, plomberie, électricité et aménagement de l’espace.
+
+Le premier, un T3, se développe en duplex. Toute la difficulté était de donner une privacité à la chambre et au bureau du RDC,tout en préservant leur luminosité. Une étagère à lumière et des stores modulables ont été intégrés. La deuxième chambre et le salon se situent tranquillement au 1er étage.
+
+Le deuxième, un T2, se situe à l’étage en partie arrière du bâtiment avec une vue assez charmante de la ville.
+
+Dans les deux cas, les cuisines s'ouvrent sur le séjour afin faciliter la convivialité. Les matériaux choisis restent douces et neutres afin d’attirer tout type de potentiel locataire. Les couleurs varient sur une palette de grises avec des touches de couleur chauds. Des meubles en bois sur mesure donnent une ambiance moderne et cosy.

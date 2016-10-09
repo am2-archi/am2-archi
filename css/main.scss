@@ -10,6 +10,7 @@ $base-font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
 $base-font-weight: 400;
 $base-line-height: 1.5;
 
+$font-size--sm:    14px;
 $base-font-size:   $base-spacing-unit;
 $font-size--lg:    24px;
 
@@ -23,10 +24,12 @@ $text-color:       #111;
 $background-color: #fdfdfd;
 $brand-color:      #2a7ae2;
 
-
-$on-palm:          600px;
-$on-laptop:        800px;
-
+// sm bootstrap
+$sm-palm:          544px;
+// md bootstrap
+$md-laptop:        768px;
+// lg bootstrap
+$lg-desktop:       992px;
 
 // Core CSS
 @import "_am2-reboot";
@@ -39,6 +42,7 @@ $on-laptop:        800px;
 @import "_components.am2-index";
 @import "_components.am2-project";
 @import "_components.am2-gallery";
+@import "_components.am2-agence";
 @import "_components.am2-contact";
 
 // Components w/ JavaScript

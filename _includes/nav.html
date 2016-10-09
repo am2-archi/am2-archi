@@ -1,8 +1,10 @@
 <header class="am2-navbar navbar navbar-light">
     <nav class="am2-nav">
-        <a class="am2-nav-brand navbar-brand" href="{{site.baseurl}}/"><b>AM2</b> Architecture</a>
-        <ul class="nav navbar-nav pull-xs-right">
+        <a class="am2-nav-brand navbar-brand" href="{{site.baseurl}}/">
+            <b>AM2</b> <span class="hidden-sm-down">Architecture</span>
+        </a>
 
+        <ul class="nav navbar-nav pull-xs-right">
             <li class="nav-item {% if page.title == 'projets' %}active{% endif %}">
                 <a class="nav-link" href="{{site.baseurl}}/">Projets</a>
             </li>
@@ -12,7 +14,6 @@
             <li class="nav-item {% if page.title == 'contact' %}active{% endif %}">
                 <a class="nav-link" href="{{site.baseurl}}/contact">Contact</a>
             </li>
-
         </ul>
     </nav>
 </header>
