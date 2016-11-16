@@ -1,8 +1,8 @@
 ---
-layout: projet
-categories: projets
+//layout: projet
+//categories: projets
 title:  "Bureaux divisés en appartements"
-date:   2016-09-25 15:51:38 +0200
+date:   2016-09-25 15:51:38 +0000
 imgcount: 6
 features:
  - ["Client", "Privé"]
@@ -12,8 +12,8 @@ features:
  - ["Mission", "Complète"]
  - ["Calendrier", "Livré en Juillet 2016"]
  - ["Colaboration avec l'Atelier Gleyze"]
+imageforindex:  ["1.jpg", "1920", "1413"]
 images:
- - ["1.jpg", "1920", "1413"]
  - ["2.jpg", "1920", "2575"]
  - ["3.jpg", "1733", "2600"]
  - ["4.jpg", "1920", "1410"]

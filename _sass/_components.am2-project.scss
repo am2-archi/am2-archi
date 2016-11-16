@@ -3,7 +3,7 @@
 		display: flex;
 	}
 
-	.am2-project-list {
+	.am2-project-text {
 		position: absolute;
 		bottom: 0;
 	}
@@ -23,15 +23,14 @@
 	margin: 4px 0;
 }
 
+.am2-project-text {
+    text-justify: inter-word;
+    font-style: italic;
+    padding-right: 30px;
+}
+
 .am2-project-hr {
 	border-top: 2px solid rgba(0,0,0,.15);
 	max-width: 250px;
+	margin-bottom: $spacing-unit--lg;
 }
-
-.am2-project-text {
-	margin-top: $spacing-unit--md;
-	padding: $spacing-unit--md 0;
-    text-align: justify;
-    text-justify: inter-word;
-}
-

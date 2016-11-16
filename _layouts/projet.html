@@ -2,17 +2,20 @@
 layout: default
 ---
 
-<div class="container">
-	<div class="row section am2-project-header">
+<div class="container-fluid section">
+	<div class="row am2-project-header">
 		<div class="col-lg-8">
 			{% for image in page.images %}
-				<img src="{{site.baseurl}}/img/projets/{{ page.slug }}/{{ image[0] }}" class="img-fluid">
+				<a href="#" class="js-photoswipe-link" data-loopindex="{{ forloop.index }}">
+					<img src="{{site.baseurl}}/img/projets/{{ page.slug }}/{{ image[0] }}" class="img-fluid">
+				</a>
 				{% break %}
 	        {% endfor %}
 		</div>
 
 		<div class="col-lg-4">
 			<h1 class="am2-project-title">{{ page.title }}</h1>
+
 			<div class="am2-project-list">
 				<ul>
 					{% for feature in page.features %}
@@ -25,29 +28,54 @@ layout: default
 					{% endfor %}
 				</ul>
 			</div>
+
+			<div class="am2-project-text">{{ page }}</div>
 		</div>
 	</div>
-
-	<div class="row section">
-		<div class="col-sm-12">
-			<hr class="am2-project-hr">
-			<div  class="am2-project-text">
-				{{ page }}
-			</div>
-			<hr class="am2-project-hr">
-		</div>
-	</div>
-
-
 </div>
 
-<div class="am2-gallery text-sm-center">
+<hr class="am2-project-hr">
+
+<div class="container-fluid section am2-gallery">
 	{% for image in page.images %}
  		{% if forloop.first %}
  			{% continue %}
  		{% endif %}
 		<div class="am2-gallery-stamp">
+			<a href="#" class="js-photoswipe-link" data-loopindex="{{ forloop.index }}">
 			<img src="{{site.baseurl}}/img/projets/{{ page.slug }}/thumbs/{{ image[0] }}" class="img-fluid">
+			</a>
 		</div>
 	{% endfor %}
 </div>
+
+{% include photoswipe.html %}
+
+<script type="text/javascript">
+	var pswpElement = document.querySelectorAll('.pswp')[0];
+
+	var items = [
+		{% for image in page.images %}
+	    {
+	        src: '{{site.baseurl}}/img/projets/{{ page.slug }}/{{ image[0] }}',
+	        w: {{ image[1] }},
+	        h: {{ image[2] }},
+	        title: "{{ page.captions[forloop.index] }}",
+	    },
+		{% endfor %}
+	];
+
+	$( ".js-photoswipe-link").click(function(event) {
+		event.preventDefault();
+
+		var loopindex = $(this).data( "loopindex");
+
+		var options = {
+		    index: loopindex - 1,
+		    closeOnScroll: false
+		};
+
+		var gallery = new PhotoSwipe( pswpElement, PhotoSwipeUI_Default, items, options);
+		gallery.init();
+	});
+</script>

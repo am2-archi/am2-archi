@@ -4,18 +4,15 @@ permalink: /
 title: projets
 ---
 
-<div class="container">
+<div class="//container container-fluid">
   <div class="row">
     {% for projet in site.categories['projets'] %}
       <div class="col-sm-6">
 
         <a class="am2-index-link" href="{{ projet.url | prepend: site.baseurl }}">
-          {% for image in projet.images %}
             <div class="am2-index-img"
-            style="background-image:url('{{site.baseurl}}/img/projets/{{ projet.slug }}/thumbs/{{ image[0] }}')">
+            style="background-image:url('{{site.baseurl}}/img/projets/{{ projet.slug }}/{{ projet.imageforindex[0] }}')">
             </div>
-            {% break %}
-          {% endfor %}
           <h1 class="am2-index-title">{{ projet.title }}</h1>
         </a>
 

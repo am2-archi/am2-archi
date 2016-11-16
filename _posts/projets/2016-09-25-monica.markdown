@@ -1,8 +1,8 @@
 ---
-layout: projet
-categories: projets
+//layout: projet
+//categories: projets
 title:  "Recherche de lumière naturelle "
-date:   2016-09-25 15:51:38 +0200
+date:   2016-09-25 15:51:38 +0000
 imgcount: 5
 features:
  - ["Client", "Privé"]
@@ -11,8 +11,8 @@ features:
  - ["Lieu", "Vincennes (94)"]
  - ["Mission", "Complète"]
  - ["Calendrier", "Livré en Juillet 2016"]
+imageforindex: ["1.jpg", "1920", "1280"]
 images:
- - ["1.jpg", "1920", "1280"]
  - ["2.jpg", "1920", "1280"]
  - ["3.jpg", "1920", "1280"]
  - ["4.jpg", "1920", "1280"]

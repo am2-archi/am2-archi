@@ -2,7 +2,7 @@
 layout: projet
 categories: projets
 title:  "Grange dans le Perche"
-date:   2016-09-25 15:51:38 +0200
+date:   2016-09-25 15:51:38 +0000
 imgcount: 5
 features:
  - ["Client", "Privé"]
@@ -11,12 +11,37 @@ features:
  - ["Lieu", "Le Perche"]
  - ["Mission", "Complète"]
  - ["Calendrier", "Livré en Juillet 2016"]
+imageforindex: ["salon.jpg", "1600", "1200"]
 images:
- - ["1.jpg", "1024", "683"]
- - ["2.jpg", "1534", "1024"]
- - ["3.jpg", "1534", "1024"]
- - ["4.jpg", "1534", "1024"]
- - ["5.jpg", "1534", "1024"]
+ - ["IMG-20161114-WA0077.jpg", "1600", "1200"]
+ - ["IMG-20161114-WA0010.jpg", "1600", "1200"]
+ - ["IMG-20161114-WA0011.jpg", "1600", "1200"]
+ - ["IMG-20161114-WA0012.jpg", "978", "1554"]
+ - ["IMG-20161114-WA0014.jpg", "1599", "899"]
+ - ["IMG-20161114-WA0023.jpg", "1600", "508"]
+ - ["IMG-20161114-WA0024.jpg", "1600", "610"]
+ - ["IMG-20161114-WA0026.jpg", "1600", "692"]
+ - ["IMG-20161114-WA0028.jpg", "1600", "1200"]
+ - ["IMG-20161114-WA0031.jpg", "1600", "1200"]
+ - ["IMG-20161114-WA0035.jpg", "1600", "1200"]
+ - ["IMG-20161114-WA0037.jpg", "1600", "1200"]
+ - ["IMG-20161114-WA0040.jpg", "1600", "1200"]
+ - ["IMG-20161114-WA0041.jpg", "1600", "1200"]
+ - ["IMG-20161114-WA0042.jpg", "1200", "1600"]
+ - ["IMG-20161114-WA0044.jpg", "1600", "1200"]
+ - ["IMG-20161114-WA0053.jpg", "1600", "1200"]
+ - ["IMG-20161114-WA0056.jpg", "1600", "1600"]
+ - ["IMG-20161114-WA0060.jpg", "1600", "1200"]
+ - ["IMG-20161114-WA0063.jpg", "1200", "1600"]
+ - ["IMG-20161114-WA0068.jpg", "1200", "1600"]
+ - ["IMG-20161114-WA0072.jpg", "1600", "1200"]
+ - ["IMG-20161114-WA0074.jpg", "1600", "1200"]
+ - ["IMG-20161114-WA0079.jpg", "1600", "1200"]
+ - ["IMG-20161114-WA0080.jpg", "1600", "1200"]
+ - ["IMG-20161114-WA0083.jpg", "1600", "1200"]
+ - ["IMG-20161114-WA0084.jpg", "1600", "1200"]
+ - ["IMG-20161114-WA0086.jpg", "1600", "1200"]
+ - ["IMG-20161114-WA0087.jpg", "1600", "1200"]
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
