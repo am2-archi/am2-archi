@@ -11,47 +11,21 @@ features:
  - ["Lieu", "Nogent-sur-Marne (94)"]
  - ["Mission", "Complète"]
  - ["Calendrier", "Livré en Juillet 2015"]
-imageforindex: ["cuisine_IMG_1069.jpg", "3456", "2304"]
+imageforindex:  ["G.jpg", "1467", "1100"]
 images:
- - ["salon_1_IMG_1075.jpg", "3456", "2304"]
- - ["15 05 COCINA.JPG", "3648", "2736"]
- - ["15 05 CUARTO NUESTRO.JPG", "3648", "2736"]
- - ["15 05 SALA.JPG", "3648", "2736"]
- - ["18 05 CUARTO BABY QUE DIGA DE ANGELA.JPG", "3648", "2736"]
- - ["20 05 CUARTO NUESTRO.JPG", "3648", "2736"]
- - ["24 05 CUARTO BABY.JPG", "3648", "2736"]
- - ["24 05 SALA.JPG", "3648", "2736"]
- - ["IMG_1046.JPG", "3456", "2304"]
- - ["IMG_1047.JPG", "3456", "2304"]
- - ["IMG_1052.JPG", "3456", "2304"]
- - ["IMG_1053.JPG", "3456", "2304"]
- - ["IMG_1054.JPG", "3456", "2304"]
- - ["IMG_1058.JPG", "2304", "3456"]
- - ["IMG_1060.JPG", "3456", "2304"]
- - ["IMG_1061.JPG", "3456", "2304"]
- - ["IMG_1065.JPG", "3456", "2304"]
- - ["IMG_1067.JPG", "3456", "2304"]
- - ["IMG_1070.JPG", "3456", "2304"]
- - ["SDC10032.jpg", "3072", "2304"]
- - ["SDC10035.jpg", "3072", "2304"]
- - ["SDC10038.jpg", "3072", "2304"]
- - ["SDC10039.jpg", "3072", "2304"]
- - ["SDC10041.jpg", "3072", "2304"]
- - ["SDC10046.jpg", "3072", "2304"]
- - ["SDC10048.jpg", "3072", "2304"]
- - ["wsalle_de_bain.jpg", "4563", "3210"]
+ - ["K.jpg", "1616", "1100"]
+ - ["H.jpg", "1517", "1100"]
+ - ["I.jpg", "723", "1100"]
+ - ["J.jpg", "1408", "1100"]
+ - ["G.jpg", "1623", "1100"]
+ - ["L.jpg", "666", "1100"]
+ - ["u.jpg", "1467", "1100"]
+ - ["v.jpg", "1467", "1100"]
+ - ["w.jpg", "1467", "1100"]
+ - ["x.jpg", "1467", "1100"]
+ - ["y.jpg", "1467", "1100"]
+ - ["z.jpg", "1467", "1100"]
 captions: [
-   "description de l'image",
-   "description de l'image",
-   "description de l'image",
-   "description de l'image",
-   "description de l'image",
-   "description de l'image",
-   "description de l'image",
-   "description de l'image",
-   "description de l'image",
-   "description de l'image",
-   "description de l'image",
    "description de l'image",
    "description de l'image",
    "description de l'image",

@@ -1,7 +1,7 @@
 ---
 layout: projet
 categories: projets
-title:  "Grange dans le Perche"
+title:  "La Ruche qui dit Oui !"
 date:   2016-09-25 15:51:38 +0000
 imgcount: 5
 features:
@@ -11,25 +11,13 @@ features:
  - ["Lieu", "Le Perche"]
  - ["Mission", "Complète"]
  - ["Calendrier", "Livré en Juillet 2016"]
-imageforindex:  ["ee.jpg", "1882", "1214"]
+imageforindex: ["A.jpg", "1800", "1013"]
 images:
- - ["a.jpg", "1634", "1100"]
- - ["b.jpg", "1492", "1100"]
- - ["cc.jpg", "959", "1100"]
- - ["d.jpg", "1671", "1100"]
- - ["dd.jpg", "1489", "1100"]
- - ["e.jpg", "1571", "1100"]
- - ["ee.jpg", "1882", "1214"]
- - ["f.jpg", "1580", "1100"]
- - ["g.jpg", "1716", "1100"]
- - ["h.jpg", "1432", "1100"]
- - ["j.jpg", "1357", "1100"]
- - ["o.jpg", "1800", "673"]
- - ["v.jpg", "1779", "1100"]
- - ["w.jpg", "1800", "1000"]
- - ["x.jpg", "1800", "1044"]
- - ["y.jpg", "1800", "1013"]
- - ["z.jpg", "672", "1100"]
+ - ["A.jpg", "1800", "1013"]
+ - ["B.jpg", "1800", "1013"]
+ - ["C.jpg", "1800", "1013"]
+ - ["D.jpg", "733", "1100"]
+ - ["E.jpg", "1650", "1100"]
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
